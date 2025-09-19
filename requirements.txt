@@ -1,0 +1,1 @@
+This is a Node.js project. Dependencies are managed in the package.json files in the `frontend`, `backend`, and `admin` directories.
